@@ -1,0 +1,51 @@
+.container-central {
+    padding: 0 10% 0 10%;
+    width: 100%;
+    height: 90%;
+    margin: 1% 0 0 0;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.info {
+    width: 50%;
+    padding-top: 7%;
+    font-size: 18px;
+}
+
+.info h1 {
+    font-family: "AndoSemibold";
+    color: #fb6f92;
+    font-size: 140px;
+    
+}
+
+.info button {
+    width: 30%;
+    padding-bottom: 1%;
+    box-shadow: -14px 12px 19px 0px rgba(0,0,0,0.25);
+    -webkit-box-shadow: -14px 12px 19px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: -14px 12px 19px 0px rgba(0,0,0,0.25);
+    
+}
+
+.button-set {
+    padding-top: 3%;
+
+}
+
+.photo {
+    width: 40%;
+
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.info h5 {
+    font-family: "AndoSemibold";
+    letter-spacing: .2rem;
+    font-size: 36px;
+}
